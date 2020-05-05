@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/mikes-new-moon-ride/precache-manifest.6400c84513e804112bcf7d422235459b.js"
+  "/mikes-new-moon-ride/precache-manifest.d0cd2235c131fc2bcee79e13081923d4.js"
 );
 
 self.addEventListener('message', (event) => {
